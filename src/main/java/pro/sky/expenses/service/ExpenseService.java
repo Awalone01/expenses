@@ -2,7 +2,6 @@ package pro.sky.expenses.service;
 
 import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.RequestParam;
 import pro.sky.expenses.entity.Expense;
 import pro.sky.expenses.entity.ExpenseByCategory;
 import pro.sky.expenses.repository.ExpenseRepository;
